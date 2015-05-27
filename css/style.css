@@ -1,0 +1,32 @@
+html, body {
+  font-family: "Helvetica Neue";
+  background-color: #242424;
+  color: white;
+  height: 100%;
+}
+
+h1 {
+  font-weight: 100;
+  width: 100%;
+  text-align: center;
+  top: 50%;
+  position: absolute;
+}
+
+h1 span {
+  font-size: 50px;
+}
+
+#days {
+  font-size: 350px;
+  height: 350px;
+  line-height: 350px;
+  margin-top: -270px;
+}
+
+#time {
+  font-size: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin-top: 120px;
+}
