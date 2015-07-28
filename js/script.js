@@ -1,5 +1,5 @@
 function countdown () {
-  var lastExam = new Date(2015, 10, 11,  14, 0); // 2:00 PM, 11 Nov 2015
+  var lastExam = new Date(2015, 10, 11,  16, 45); // 4:45 PM, 11 Nov 2015
   var now = Date.now();
 
   var diff = lastExam - now;
