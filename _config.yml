@@ -20,5 +20,5 @@ github_username:  willem-h
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jemoji
