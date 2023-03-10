@@ -10,12 +10,12 @@ title: Willem's Blog
 name: Willem Handreck
 email: hi@willemhandreck.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi friend, welcome to my blog. I believe people matter. You matter. I write
-  about the intersection between faith, people, data, and the way each of these
-  can be a powerful force for good. Thanks for coming along for the journey!
+  Hello! Welcome to my blog. I believe building things that work alongside
+  humanity and not against it is one of the most important things we can be
+  doing. I'm getting better at what I do so I can help make life better for
+  everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://willem-h.github.io # the base hostname & protocol for your site
-twitter_username: willemhandreck
 github_username:  willem-h
 
 # Build settings
