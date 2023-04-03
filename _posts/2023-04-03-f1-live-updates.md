@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Formula 1 Live Results using AWS Lambda, Telegram, and Sportmonks"
-categories: [software, learning, formula1, aws]
+date: 2023-04-03
 ---
 
 This weekend I went to the Australian F1 Grand Prix in Melbourne and I loved it. 

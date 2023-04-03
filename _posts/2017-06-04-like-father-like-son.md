@@ -2,7 +2,6 @@
 layout: post
 title:  "Like Father, Like Son"
 date:   2017-06-04
-categories: [jesus, family]
 ---
 
 We all want to be part of something important. Some of us want to be the face of

@@ -2,7 +2,6 @@
 layout: post
 title:  "Decisions by Data: Foundations"
 date:   2018-04-13
-categories: [data]
 ---
 
 So you’ve decided you want to make decisions with data. Whoop whoop 🎉

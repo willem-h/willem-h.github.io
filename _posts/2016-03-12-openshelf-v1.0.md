@@ -2,7 +2,6 @@
 layout: post
 title:  "OpenShelf v1.0"
 date:   2016-03-12
-categories: projects
 ---
 > “Ideas are easy, execution is everything”
 > - John Doerr
