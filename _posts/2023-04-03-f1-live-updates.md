@@ -17,10 +17,10 @@ track and a screen at the same time. And I was there to see the on-track action.
 Walking home from the train station after qualifying I wondered if I could build
 something to help. Turns out I could using these tools:
 
-- (AWS Lambda)[https://aws.amazon.com/lambda/]
-- (AWS EventBridge Scheduler)[https://aws.amazon.com/eventbridge/scheduler/]
-- (Telegram Bot)[https://core.telegram.org/bots/api]
-- (Sportmonks’ F1 API)[https://www.sportmonks.com/formula-one-api/]
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+- [AWS EventBridge Scheduler](https://aws.amazon.com/eventbridge/scheduler/)
+- [Telegram Bot](https://core.telegram.org/bots/api)
+- [Sportmonks’ F1 API](https://www.sportmonks.com/formula-one-api/)
 
 Here's how I did it.
 
