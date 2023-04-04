@@ -15,6 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   doing. I'm getting better at what I do so I can help make life better for
   everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
+permalink: /:title
 url: https://willem-h.github.io # the base hostname & protocol for your site
 github_username:  willem-h
 
