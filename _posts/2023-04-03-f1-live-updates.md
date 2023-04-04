@@ -49,9 +49,9 @@ and free. It didn't help however that their documentation is tricky to parse. I
 turned to ChatGPT to give me an example of sending a message and it worked.
 
 AWS Lambda is the tool I used to glue the Sportmonks API to Telegram. I've been
-using it over the last couple of weeks to build another project of mine. I then
-used AWS EventBridge Scheduler like a cron service and set it to invoke the
-Lambda function I'd written every minute.
+using it over the last couple of weeks to build [another project]({% post_url 2023-03-10-openshelf-in-2023 })
+of mine. I then used AWS EventBridge Scheduler like a cron service and set it to
+invoke the Lambda function I'd written every minute.
 
 The Lambda function itself is faily simple. It first requests the information
 from Sportmonks. If there isn't any data it sends a message saying that "No race
